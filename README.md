@@ -30,8 +30,8 @@ Descrição de fácil acesso dos pinos da BitDogLab
 
 | Componente | Pino |
 | --- | --- |
-| OLED (SCL) | GPIO 15 |
-| OLED (SDA) | GPIO 14 |
+| OLED (SCL) | 15 |
+| OLED (SDA) | 14 |
 
 </details>
 
