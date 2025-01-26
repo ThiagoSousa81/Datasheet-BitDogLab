@@ -2,6 +2,15 @@
 Descrição de fácil acesso dos pinos da BitDogLab
 
 > OBS.: Essa descrição de pinos é da placa BitDogLab do programa TIC-37 EmbarcaTech
+
+<details><summary><h2>Microfone</h2></summary>
+
+| Componente | Pino |
+| --- | --- |
+| Microfone | GPIO 28 |
+
+</details>
+
 <details><summary><h2>Display OLED</h2></summary>
 
 | Componente | Pino |
@@ -16,7 +25,7 @@ Descrição de fácil acesso dos pinos da BitDogLab
 | Componente | Pino |
 | --- | --- |
 | VRx (Joystick) | GPIO 26 |
-| VRy (Joystick) | 27 |
+| VRy (Joystick) | GPIO 27 |
 | Botão Joystick | GPIO 22 |
 
 </details>
@@ -33,9 +42,9 @@ Descrição de fácil acesso dos pinos da BitDogLab
 
 | Componente | Pino |
 | --- | --- |
-| LED Vermelho (PWM) | 12 | 
-| LED Verde (PWM) | 13 |
-| LED Azul (PWM) | 11 |
+| LED Vermelho (PWM) | GPIO 12 | 
+| LED Verde (PWM) | GPIO 13 |
+| LED Azul (PWM) | GPIO 11 |
 
 </details>
 
@@ -43,8 +52,8 @@ Descrição de fácil acesso dos pinos da BitDogLab
 
 | Componente | Pino |
 | --- | --- |
-| Buzzer 1 (PWM) | 21 |
-| Buzzer 2 (PWM) | 10 |
+| Buzzer 1 (PWM) | GPIO 21 |
+| Buzzer 2 (PWM) | GPIO 10 |
 
 </details>
 
@@ -52,7 +61,7 @@ Descrição de fácil acesso dos pinos da BitDogLab
 
 | Componente | Pino |
 | --- | --- |
-| Botão A | 5 |
-| Botão B | 6 |
+| Botão A | GPIO 5 |
+| Botão B | GPIO 6 |
 
 </details>
