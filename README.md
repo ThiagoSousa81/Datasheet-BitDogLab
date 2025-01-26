@@ -57,9 +57,9 @@ Descrição de fácil acesso dos pinos da BitDogLab
 
 | Componente | Pino |
 | --- | --- |
-| LED Vermelho (PWM) | GPIO 12 | 
-| LED Verde (PWM) | GPIO 13 |
-| LED Azul (PWM) | GPIO 11 |
+| LED Verde (PWM) | GPIO 11 |
+| LED Azul (PWM) | GPIO 12 | 
+| LED Vermelho (PWM) | GPIO 13 |
 
 </details>
 
