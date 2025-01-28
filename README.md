@@ -14,14 +14,14 @@ Descrição de fácil acesso dos pinos da BitDogLab
 
 <details><summary><h2>Portas do barramento I2C</h2></summary>
 
-> Ainda não fiz um teste, mas deduzindo o [código](https://github.com/wiltonlacerda/EmbarcaTechU4C1/blob/0d970b14796fd2ac0be7dea3b164f76429509696/ArquivosUF2/DeFabrica/BitDogLab_Original.py#L9) que veio de fábrica seria assim...
+<!-- Ainda não fiz um teste, mas deduzindo o [código](https://github.com/wiltonlacerda/EmbarcaTechU4C1/blob/0d970b14796fd2ac0be7dea3b164f76429509696/ArquivosUF2/DeFabrica/BitDogLab_Original.py#L9) que veio de fábrica seria assim...-->
 
 | Componente | Pino |
 | --- | --- |
-| I2C 0 (SDA) | 14 |
-| I2C 0 (SCL) | 15 |
-| I2C 1 (SDA) | 16 |
-| I2C 1 (SCL) | 17 |
+| I2C 0 (SDA) | GPIO0 |
+| I2C 0 (SCL) | GPIO1 |
+| I2C 1 (SDA) | GPIO2 |
+| I2C 1 (SCL) | GPIO3 |
 
 </details>
 
