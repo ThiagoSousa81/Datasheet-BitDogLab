@@ -1,11 +1,16 @@
 <h1 align=center>Datasheet BitDogLab</h1>
 Descrição de fácil acesso dos pinos da BitDogLab
 
-> OBS.: Essa descrição de pinos é da placa BitDogLab do programa TIC-37 EmbarcaTech.
+> OBS.: Essa descrição de pinos é da placa BitDogLab v6.3 do programa TIC-37 EmbarcaTech.
 >
 > Lembre-se de consultar o datasheet do Raspberry Pi Pico W se discordar de algo aqui
 
 <h2 align=center>Se isso lhe ajudou de alguma forma, deixe-me uma ⭐ neste repo</h2>
+<h3 align=center> 
+  
+  ![DatasheetPicoW](https://github.com/ThiagoSousa81/Test-Pooling/blob/main/2_BDL_RGB.jpg)
+  
+</h3>
 
 <details><summary><h2>Portas do barramento I2C</h2></summary>
 
