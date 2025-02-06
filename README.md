@@ -6,11 +6,17 @@ Descrição de fácil acesso dos pinos da BitDogLab
 > Lembre-se de consultar o datasheet do Raspberry Pi Pico W se discordar de algo aqui
 
 <h2 align=center>Se isso lhe ajudou de alguma forma, deixe-me uma ⭐ neste repo</h2>
-<h3 align=center> 
+<div align=center> 
   
-  ![DatasheetPicoW](https://github.com/ThiagoSousa81/Test-Pooling/blob/main/2_BDL_RGB.jpg)
+  ![DatasheetPicoW](https://github.com/BitDogLab/BitDogLab/blob/main/doc/illustrations/picow-pinout.svg)
+
+  Datasheet do **RaspberrPi Pico W**
+
+  ![Diagrama-BitDogLab](https://github.com/ThiagoSousa81/Test-Pooling/blob/main/2_BDL_RGB.jpg)
+
+  Localização dos componentes da **BitDogLab** no **Pico W**
   
-</h3>
+</div>
 
 <details><summary><h2>Portas do barramento I2C</h2></summary>
 
