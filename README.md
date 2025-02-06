@@ -8,11 +8,11 @@ Descrição de fácil acesso dos pinos da BitDogLab
 <h2 align=center>Se isso lhe ajudou de alguma forma, deixe-me uma ⭐ neste repo</h2>
 <div align=center> 
   
-  ![DatasheetPicoW](https://github.com/BitDogLab/BitDogLab/blob/main/doc/illustrations/picow-pinout.svg)
+  ![DatasheetPicoW](https://github.com/ThiagoSousa81/Datasheet-BitDogLab/blob/main/images/picow-pinout.svg)
 
   Datasheet do **RaspberrPi Pico W**
 
-  ![Diagrama-BitDogLab](https://github.com/ThiagoSousa81/Test-Pooling/blob/main/2_BDL_RGB.jpg)
+  ![Diagrama-BitDogLab](https://github.com/ThiagoSousa81/Datasheet-BitDogLab/blob/main/images/Datasheet_BitDogLab_v6.3.jpg)
 
   Localização dos componentes da **BitDogLab** no **Pico W**
   
