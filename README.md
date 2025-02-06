@@ -10,7 +10,7 @@ Descrição de fácil acesso dos pinos da BitDogLab
   
   ![DatasheetPicoW](https://github.com/ThiagoSousa81/Datasheet-BitDogLab/blob/main/images/picow-pinout.svg)
 
-  Datasheet do **RaspberrPi Pico W**
+  Datasheet do **[RaspberrPi Pico W](https://github.com/BitDogLab/BitDogLab/blob/main/doc/illustrations/picow-pinout.svg)**
 
   ![Diagrama-BitDogLab](https://github.com/ThiagoSousa81/Datasheet-BitDogLab/blob/main/images/Datasheet_BitDogLab_v6.3.jpg)
 
